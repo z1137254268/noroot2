@@ -3,10 +3,6 @@
 PORT=${PORT:-8080}
 AUUID=${AUUID:-5194845a-cacf-4515-8ea5-fa13a91b1026}
 ParameterSSENCYPT=${ParameterSSENCYPT:-chacha20-ietf-poly1305}
-CADDYIndexPage=${CADDYIndexPage:-https://codeload.github.com/ripienaar/free-for-dev/zip/refs/heads/master}
-
-# download execution
-chmod +x caddy xray
 
 
 
